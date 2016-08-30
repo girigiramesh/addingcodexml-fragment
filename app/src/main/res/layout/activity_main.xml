@@ -12,7 +12,7 @@
 
     <fragment
         android:id="@+id/fragment"
-        android:name="com.fragment.MyFragment"
+        android:name="com.fragment.FragmentA"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentStart="true"
